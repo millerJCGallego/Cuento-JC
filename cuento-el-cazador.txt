@@ -1,3 +1,4 @@
 title-Cuento del cazador
 subtitle-el cazador en el bosque
 body-el cuento comienza
+body2-el cazador se asusta
