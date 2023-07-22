@@ -1,5 +1,4 @@
-header2
-body
-body2
-body3
+header
 title
+body
+footer
